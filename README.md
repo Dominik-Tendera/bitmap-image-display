@@ -1,9 +1,9 @@
 
-# Project Title
+# Project Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2024
 
 A brief description of what this project does and what it's for
 
-Display build from an addressable led strip and controlled by a nucleo board which takes data from computer or onboard memory. The display consists of 128 RGB addressable LEDs connected in series, arranged in 8 rows and 16 columns
+Display build from an addressable led strip and controlled by a NUCLEO-L476RG board which takes data from computer or onboard memory. The display consists of 128 RGB addressable LEDs connected in series, arranged in 8 rows and 16 columns.
 
 Program principle goes like this:  
 1. Python script converts bitmap images into an RGB bitstream, which is sent via UART to the microcontroller.
